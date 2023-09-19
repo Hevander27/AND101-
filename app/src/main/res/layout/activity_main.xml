@@ -4,20 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:theme="@android:style/Theme.Light">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/profile_card"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="25dp"
-        android:background="@color/card_foreground"
+        android:background="#C2185B"
         app:cardCornerRadius="25dp"
         android:elevation="20dp">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:background="#90CAF9">
+
 
             <ImageView
                 android:id="@+id/profile_image"
@@ -65,6 +68,8 @@
                 android:text="@string/profile_hobby_header_text"
                 android:textSize="18sp"
                 android:textColor="@color/black"/>
+
+
 
             <TextView
                 android:id="@+id/profile_hobby_first"
