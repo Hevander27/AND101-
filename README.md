@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/a/T6wx6hx.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/T6wx6hx.gif' title='Video Demo' width='' alt='Video Demo' />
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/T6wx6hx"  ><a href="//imgur.com/a/T6wx6hx">Hevander Da Costa</a></blockquote>
 
 
