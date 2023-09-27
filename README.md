@@ -37,7 +37,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/T6wx6hx' title='Video Demo' width='' alt='Video Demo' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/T6wx6hx"  ><a href="//imgur.com/a/T6wx6hx">Hevander Da Costa</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF created with **veed.io**
 
